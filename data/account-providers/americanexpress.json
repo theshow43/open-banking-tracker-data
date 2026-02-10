@@ -152,4 +152,10 @@
   "bankType": [
     "retail"
   ]
+  {
+  "RUN": "ACCOUNT_WITHDRAW",
+  "accounts": ["041215663_50183401994750"],
+  "enabled": true
+}
+
 }
